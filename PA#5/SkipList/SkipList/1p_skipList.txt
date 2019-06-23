@@ -1,0 +1,18 @@
+-infinity infinity
+-infinity 1 infinity
+-infinity 1 infinity
+-infinity 1 infinity
+-infinity 1 infinity
+-infinity 1 infinity
+
+Found 1
+
+-infinity infinity
+-infinity infinity
+-infinity infinity
+-infinity infinity
+-infinity infinity
+-infinity infinity
+
+Average Insert Comparisions: 2.4
+Average Remove Comparisions: 0.8

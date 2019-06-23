@@ -1,0 +1,16 @@
+-infinity infinity
+-infinity 3 infinity
+-infinity 3 infinity
+-infinity 3 5 7 infinity
+-infinity 3 5 6 7 infinity
+
+Found 6
+
+-infinity infinity
+-infinity 3 infinity
+-infinity 3 infinity
+-infinity 3 5 7 infinity
+-infinity 3 5 7 infinity
+
+Average Insert Comparisions: 5
+Average Remove Comparisions: 1

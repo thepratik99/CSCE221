@@ -1,0 +1,10 @@
+Total Number of Nodes is 1.
+
+Inorder traversal of tree is as below.
+1[1] 
+
+Level Order traversal of the tree is as below.
+1[1] 
+
+Total search cost for this tree is 1
+Average search cost for this tree is 1

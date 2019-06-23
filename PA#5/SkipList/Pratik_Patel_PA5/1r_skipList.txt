@@ -1,0 +1,9 @@
+-infinity infinity
+-infinity 1 infinity
+
+
+-infinity infinity
+-infinity 1 infinity
+
+Average Insert Comparisions: 4
+Average Remove Comparisions: 3

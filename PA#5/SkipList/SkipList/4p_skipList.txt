@@ -1,0 +1,34 @@
+-infinity infinity
+-infinity 14 infinity
+-infinity 14 infinity
+-infinity 8 14 infinity
+-infinity 2 3 8 9 14 infinity
+-infinity 1 2 3 4 5 8 9 14 infinity
+-infinity 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 infinity
+
+Found 1
+Found 3
+Found 2
+Found 5
+Found 7
+Found 6
+Found 4
+Found 9
+Found 11
+Found 10
+Found 13
+Found 15
+Found 14
+Found 12
+Found 8
+
+-infinity infinity
+-infinity infinity
+-infinity infinity
+-infinity infinity
+-infinity infinity
+-infinity infinity
+-infinity infinity
+
+Average Insert Comparisions: 6.78125
+Average Remove Comparisions: 5.90625
